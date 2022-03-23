@@ -1,0 +1,70 @@
+* 
+{
+    font-family: 'Nunito', sans-serif;
+}
+
+ body {
+	background-color: #9ec5fe;
+ }
+
+.navbar-brand {
+    font-size: 38px;
+    font-weight: 600;
+    color: #333533 !important;
+}
+#Barbearia-Padova-03 {
+	width:100%;
+}
+
+.principal{
+	background: #9ec5fe;
+	padding: 30px;
+}
+
+.titulo-principal {
+	padding-left: 20px;
+}
+
+.titulo-centralizado {
+	text-align: center
+}
+
+p {
+	text-align: center;
+}
+
+#missao {
+	font-size: 20px
+}
+
+em strong {
+	color: #FF0000;
+}
+
+.itens {
+	font-style: italic
+}
+
+.beneficios {
+	background:#9ec5fe;
+	padding: 20px;
+}
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
+
+.imagembeneficios {
+	width: 100%;
+}
+
+.container{
+    background-color: #9ec5fe;
+}
+
+.arodape {
+    background-color: #9ec5fe;
+}
